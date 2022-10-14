@@ -1,0 +1,23 @@
+.c_h {
+    height: 100vh;
+  }
+
+
+@media (min-width: 800px){
+    .t_s {
+        max-width: 600px;
+    }
+}
+
+
+@media (min-width: 1080px){
+    .t_s {
+        max-width: 700px;
+    }
+}
+
+@media (min-width: 1300px){
+    .t_s {
+        max-width: 1000px;
+    }
+}
